@@ -1,7 +1,7 @@
 {
   "name": "Con bot điên",
   "bot-account": {
-    "username": "Nhanbot",
+    "username": "botbidien",
     "password": "",
     "type": "offline"
   },
@@ -9,7 +9,7 @@
     "ip": "harrynhan.falixsrv.me",
     "port": 25726,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
